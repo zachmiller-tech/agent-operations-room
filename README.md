@@ -9,6 +9,7 @@ The project combines provider-neutral AI integration, runtime state management, 
 Rather than treating AI agents as simple chat windows, the project explores how AI services can operate as identifiable components within a larger technical environment while maintaining clear distinctions between configuration, availability, activity, and authority.
 
 ---
+<img width="1536" height="1024" alt="agent-operations-room-interface" src="https://github.com/user-attachments/assets/89c9680c-f602-4087-b14a-ea3418e1c39a" />
 
 ## Project Goals
 
