@@ -28,6 +28,7 @@ Rather than treating AI agents as simple chat windows, the project explores how 
 ## Architecture Concept
 
 The Agent Operations Room is designed around several logical layers:
+<img width="1536" height="1024" alt="agent-operations-room-architecture" src="https://github.com/user-attachments/assets/46f02a0f-7708-4c82-b0df-7c03d7872627" />
 
 ### Operations Interface
 
