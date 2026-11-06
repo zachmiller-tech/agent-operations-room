@@ -2,13 +2,16 @@
 
 ### Spatial AI Operations & Multi-Agent Coordination Environment
 
+**A provider-neutral architecture for coordinating AI agents, runtime state, operational visualization, and human-controlled authority.**
+
 Agent Operations Room is a systems architecture and engineering project exploring how multiple AI services, agents, runtime state, and operational workflows can be represented and coordinated through a unified visual environment.
 
 The project combines provider-neutral AI integration, runtime state management, agent identity, operational visualization, and controlled authority boundaries into a spatial operations-room concept.
 
 Rather than treating AI agents as simple chat windows, the project explores how AI services can operate as identifiable components within a larger technical environment while maintaining clear distinctions between configuration, availability, activity, and authority.
 
----
+**Key Concepts:** Multi-Agent Systems · Provider-Neutral AI · Runtime State · Human-in-the-Loop Authority · Operational Visualization
+
 <img width="1536" height="1024" alt="agent-operations-room-interface" src="https://github.com/user-attachments/assets/89c9680c-f602-4087-b14a-ea3418e1c39a" />
 
 ## Project Goals
